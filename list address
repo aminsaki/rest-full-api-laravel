@@ -1,1 +1,5 @@
-https://www.toptal.com/laravel/restful-laravel-api-tutorial
+https://www.toptal.com/laravel/restful-laravel-api-tutorial     /// api  resfull helpe
+
+
+composer require --dev barryvdh/laravel-ide-helper             /// php doc
+
